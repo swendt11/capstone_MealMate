@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("capstone_MealMate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b6906aba4449fd92a567a8dbee9a447aa1b66c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("capstone_MealMate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("capstone_MealMate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

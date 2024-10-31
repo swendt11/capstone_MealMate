@@ -1,0 +1,17 @@
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\bin\Debug\net8.0-windows\capstone_MealMate.exe
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\bin\Debug\net8.0-windows\capstone_MealMate.deps.json
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\bin\Debug\net8.0-windows\capstone_MealMate.runtimeconfig.json
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\bin\Debug\net8.0-windows\capstone_MealMate.dll
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\bin\Debug\net8.0-windows\capstone_MealMate.pdb
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\capstone_MealMate.Form1.resources
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\capstone_MealMate.csproj.GenerateResource.cache
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\capstone_MealMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\capstone_MealMate.AssemblyInfoInputs.cache
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\capstone_MealMate.AssemblyInfo.cs
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\capstone_MealMate.csproj.CoreCompileInputs.cache
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\capstone_MealMate.sourcelink.json
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\capstone_MealMate.dll
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\refint\capstone_MealMate.dll
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\capstone_MealMate.pdb
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\capstone_MealMate.genruntimeconfig.cache
+C:\Users\wendt\Music\IT Developer Capstone\capstone_MealMate\obj\Debug\net8.0-windows\ref\capstone_MealMate.dll
