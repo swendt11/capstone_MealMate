@@ -58,6 +58,7 @@
             btnDineIn.TabIndex = 1;
             btnDineIn.Text = "Dine-In";
             btnDineIn.UseVisualStyleBackColor = true;
+            btnDineIn.Click += btnDineIn_Click;
             // 
             // tbxName
             // 
@@ -79,6 +80,7 @@
             btnTakeout.TabIndex = 3;
             btnTakeout.Text = "Takeout";
             btnTakeout.UseVisualStyleBackColor = true;
+            btnTakeout.Click += btnTakeout_Click;
             // 
             // btnBeginOrder
             // 
@@ -90,6 +92,7 @@
             btnBeginOrder.TabIndex = 4;
             btnBeginOrder.Text = "Begin Order";
             btnBeginOrder.UseVisualStyleBackColor = true;
+            btnBeginOrder.Click += btnBeginOrder_Click;
             // 
             // btnAdminPanel
             // 
@@ -99,6 +102,7 @@
             btnAdminPanel.TabIndex = 5;
             btnAdminPanel.Text = "Admin Panel";
             btnAdminPanel.UseVisualStyleBackColor = true;
+            btnAdminPanel.Click += btnAdminPanel_Click;
             // 
             // Form1
             // 
