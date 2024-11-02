@@ -35,7 +35,7 @@
             tbxPassword = new TextBox();
             btnLogin = new Button();
             pnlLoginControls = new Panel();
-            button1 = new Button();
+            btnCloseLogin = new Button();
             pnlLoginControls.SuspendLayout();
             SuspendLayout();
             // 
@@ -93,6 +93,7 @@
             btnLogin.TabIndex = 5;
             btnLogin.Text = "Login";
             btnLogin.UseVisualStyleBackColor = true;
+            btnLogin.Click += btnLogin_Click;
             // 
             // pnlLoginControls
             // 
@@ -106,26 +107,27 @@
             pnlLoginControls.Size = new Size(523, 160);
             pnlLoginControls.TabIndex = 6;
             // 
-            // button1
+            // btnCloseLogin
             // 
-            button1.Location = new Point(12, 590);
-            button1.Name = "button1";
-            button1.Size = new Size(131, 40);
-            button1.TabIndex = 7;
-            button1.Text = "Close Login ";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            btnCloseLogin.Location = new Point(12, 590);
+            btnCloseLogin.Name = "btnCloseLogin";
+            btnCloseLogin.Size = new Size(131, 40);
+            btnCloseLogin.TabIndex = 7;
+            btnCloseLogin.Text = "Close Login ";
+            btnCloseLogin.UseVisualStyleBackColor = true;
+            btnCloseLogin.Click += btnCloseLogin_Click;
             // 
             // Admin_Panel_Login_Page
             // 
             AutoScaleDimensions = new SizeF(12F, 30F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1070, 642);
-            Controls.Add(button1);
+            ControlBox = false;
+            Controls.Add(btnCloseLogin);
             Controls.Add(pnlLoginControls);
             Controls.Add(lblTitle);
             Name = "Admin_Panel_Login_Page";
-            Text = "MealMate v0.1";
+            Text = "MealMate v0.1 - Admin Login";
             Load += Admin_Panel_Login_Page_Load;
             pnlLoginControls.ResumeLayout(false);
             pnlLoginControls.PerformLayout();
@@ -143,6 +145,6 @@
         private GroupBox gbxLoginControls;
         private Button btnLogin;
         private Panel pnlLoginControls;
-        private Button button1;
+        private Button btnCloseLogin;
     }
 }

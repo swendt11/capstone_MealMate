@@ -28,9 +28,23 @@ namespace capstone_MealMate
             pnlLoginControls.Top = (this.ClientSize.Height - pnlLoginControls.Height) / 2;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnCloseLogin_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            // This code is for temporary navigation to the "Admin Panel" page.
+            // Once the database is integrated this code will change.
+            if (tbxUsername.Text == String.Empty || tbxPassword.Text == String.Empty)
+            {
+                MessageBox.Show("No username or password entered");
+            }
+            else { 
+                var adminPanel = new Admin_Panel();
+                adminPanel.Show();
+            }
         }
     }
 }

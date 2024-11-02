@@ -4,6 +4,9 @@
     <Compile Update="Admin Panel Login Page.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Admin Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Customer Name Page.cs">
       <SubType>Form</SubType>
     </Compile>
